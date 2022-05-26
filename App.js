@@ -1,11 +1,11 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
-import SectionItem from './components/sectionItem';
+import { StyleSheet, View } from 'react-native';
+import RegisterLogistics from './components/registerLogistics';
 
 export default function App() {
   return (
     <View style={styles.container}>
-       <SectionItem name={"What shall we do today?"} />
+       <RegisterLogistics />
       <StatusBar style="auto" />
     </View>
   );
