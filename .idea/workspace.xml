@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bb4bc29-9375-49c3-b3b1-241c020c897c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/components/amountButton/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/amountButton/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/amountItem/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/amountItem/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/registerLogistics/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/registerLogistics/registerLogisticsElements.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/shippingProduct/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/shippingProduct/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/welcomeLogistics/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/welcomeLogistics/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/logistics/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/logistics/logisticsElements.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +13,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="032620186G000684" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="New_Device_API_17" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
