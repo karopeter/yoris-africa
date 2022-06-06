@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bb4bc29-9375-49c3-b3b1-241c020c897c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/components/logistics/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/logistics/logisticsElements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/pickupLogistics/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/pickupLogistics/pickupLogisticsElements.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/backIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/logistics/logisticsElements.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/logistics/logisticsElements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +25,7 @@
   <component name="ProjectId" id="291gHsc5UgWtijSqmVrm6o00u8S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Yoris" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />

@@ -1,5 +1,4 @@
 import styled from 'styled-components/native';
-import { Button } from 'react-native-paper';
 
 export const LogisticsContainer = styled.View`
      display: flex;
@@ -10,9 +9,10 @@ export const LogisticsContainer = styled.View`
 export const LogisticsPrimary = styled.Text`
    color: #fff;
    text-align: center;
-   font-size: 15px;
+   font-size: 25px;
    font-weight: bold;
    margin-top: 60px;
+   font-family: 'Roboto';
 `;
 
 export const LogisticsWrapper = styled.View`
@@ -45,7 +45,7 @@ export const Column2 = styled.View`
 
 export const LogisticsSlot = styled.Text`
   color: #fff;
-  font-size: 10px;
+  font-size: 15px;
   text-align: left;
   margin-top: 20px;
   font-family: 'Roboto';
@@ -60,13 +60,18 @@ export const LogisticsBox = styled.View`
    border-radius: 5px;
 `;
 
-export const LogisticsBtn = styled(Button)`
+export const LogisticsBtn = styled.Text`
    position: relative;
    width: 300px;
    height: 48px;
-   top: 30px;
+   margin-top: 30px;
    left: 10px;
+   padding: 12px;
+   text-align: center;
    color: #000;
+   font-weight: 400;
+   font-size: 18px;
    background: #C3AD60;
    border-radius: 5px;
+   text-transform: uppercase;
 `;

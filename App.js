@@ -1,11 +1,12 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, View } from 'react-native';
+import PickupLogistics from './components/pickupLogistics';
 import LogisticsAddress from './components/logistics';
 
 export default function App() {
   return (
     <View style={styles.container}>
-       <LogisticsAddress />
+      <PickupLogistics />
       <StatusBar style="auto" />
     </View>
   );
